@@ -1,0 +1,32 @@
+/* Add custom styles for your website */
+
+/* Style the header */
+header {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  /* Style the navbar links */
+  .navbar-nav .nav-link {
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  /* Style the main sections */
+  section {
+    padding: 20px;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  .navbar-nav {
+    margin-right: auto;
+  }
+  
+  
